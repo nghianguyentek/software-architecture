@@ -1,2 +1,2 @@
-# software-architecture
-Sofware architecture knowledge
+# Software Architecture
+Software architecture knowledge
